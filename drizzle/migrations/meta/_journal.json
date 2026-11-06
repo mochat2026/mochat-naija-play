@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793993229700,
+      "tag": "0000_mochat_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793993248395,
+      "tag": "0001_media_policies",
+      "breakpoints": true
+    }
+  ]
+}
